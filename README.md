@@ -1,5 +1,5 @@
 # PES_Project_3
-by:Aaksha Jaywant and Rucha Borwankar
+AUTHORS: Aaksha Jaywant and Rucha Borwankar
 
 PES-Project-3
 Project By: Aaksha Jaywant and Rucha Borwankar
